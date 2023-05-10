@@ -1,3 +1,3 @@
 # Security Policy
 
-For security issues, send an email to `security@pgvector.com`.
+For security issues, contact `security@pgvector.com`.
